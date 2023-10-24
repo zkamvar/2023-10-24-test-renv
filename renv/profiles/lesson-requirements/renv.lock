@@ -261,6 +261,18 @@
       ],
       "Hash": "18e9c28c1d3ca1560ce30658b22ce104"
     },
+    "pak": {
+      "Package": "pak",
+      "Version": "0.6.0",
+      "Source": "Repository",
+      "Repository": "RSPM",
+      "Requirements": [
+        "R",
+        "tools",
+        "utils"
+      ],
+      "Hash": "8b18efeaf9e27136a65692bcec07fc7a"
+    },
     "rappdirs": {
       "Package": "rappdirs",
       "Version": "0.3.3",
@@ -280,6 +292,24 @@
         "utils"
       ],
       "Hash": "41b847654f567341725473431dd0d5ab"
+    },
+    "repvar": {
+      "Package": "repvar",
+      "Version": "0.1.0",
+      "Source": "GitHub",
+      "RemoteType": "github",
+      "RemoteHost": "api.github.com",
+      "RemoteRepo": "repvar",
+      "RemoteUsername": "zkamvar",
+      "RemotePkgRef": "zkamvar/repvar",
+      "RemoteRef": "HEAD",
+      "RemoteSha": "07e2051f169c5df7f20f0fa2f57baa55455e8bdc",
+      "Requirements": [
+        "R",
+        "graphics",
+        "stats"
+      ],
+      "Hash": "6eec4a14b0539e702015646382c5299e"
     },
     "rlang": {
       "Package": "rlang",
